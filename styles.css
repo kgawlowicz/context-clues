@@ -1,0 +1,18 @@
+h3{
+border-radius: 10px;
+border-color: coral; 
+border-style: groove;
+display: inline;
+padding: 1em;
+
+} 
+
+.h3Container{
+    display: flex;
+    flex-flow: wrap;
+}
+h1{
+    color:darkcyan;
+    display: block;
+    margin: auto;
+}
